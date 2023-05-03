@@ -9,7 +9,7 @@ Hardwar Event - Day 1
 
 
 ## About
-This repository is created to brainstorm for the day 1 of the hardwar event, hosted by ce department of Sharif university of technology.
+This repository is created to brainstorm for the day 1 of the hardwar event, hosted by the CE department of Sharif university of technology.
 
 
 ## Ideas
