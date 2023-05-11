@@ -6,6 +6,8 @@ Hardwar Event
 - Pouria Arefijamal
 - Hooman Keshvari
 - Mohammad Javad Maheronnaghsh
+- Head of Scientific part: Arman Soleymani
+- Head of the event: ALireza Foroodnia
 
 
 ## About
