@@ -1,5 +1,5 @@
 # Hardwar-Arduino
-Hardwar Event - Day 1
+Hardwar Event 
 
 
 ## Contributors
@@ -9,7 +9,8 @@ Hardwar Event - Day 1
 
 
 ## About
-This repository is created to brainstorm for the day 1 of the hardwar event, hosted by the CE department of Sharif university of technology.
+This repository is created to brainstorm for the Arduino part of the hardwar event, hosted by the CE department of Sharif university of technology.
+The Arduino part of the event extends to 2 days, each day we have a unique challenge. So, we are going to have 2 different challenges in this part of event.
 
 ## Inventories
 - Arduino Uno * 28
