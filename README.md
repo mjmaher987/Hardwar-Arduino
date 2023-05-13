@@ -30,6 +30,8 @@ The Arduino part of the event extends to 2 days, each day we have a unique chall
 ### Brain Storming
 
 ### Selected Topics
+- Day 1 (for 1400 entries)
+- Day 2 (for 1401 entries)
 
 
 ## Meetings
