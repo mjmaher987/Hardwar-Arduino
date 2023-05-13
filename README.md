@@ -30,3 +30,12 @@ The Arduino part of the event extends to 2 days, each day we have a unique chall
 ### Brain Storming
 
 ### Selected Topics
+
+
+## Meetings
+### Meeting 1
+In this meeting we have talked about the main concepts of the event. 
+The head of the scientific part is Arman Soleymani.
+Scientific part consists of 2 parts:
+- Arduino
+- HPC (High Performance Computing)
