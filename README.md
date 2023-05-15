@@ -41,3 +41,4 @@ The head of the scientific part is Arman Soleymani.
 Scientific part consists of 2 parts:
 - Arduino
 - HPC (High Performance Computing)
+- Advanced -> This part mey be added to the competition.
