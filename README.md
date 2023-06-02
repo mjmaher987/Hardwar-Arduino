@@ -4,9 +4,8 @@ Hardwar Event
 
 ## Contributors
 - Mahdi Bahreiny
-- Pouria Arefijamal
-- Hooman Keshvari
 - Mohammad Javad Maheronnaghsh
+- Parsa Sharify
 - Head of Scientific part: Arman Soleymani
 - Head of the event: ALireza Foroodnia
 
@@ -17,22 +16,24 @@ The Arduino part of the event extends to 2 days, each day we have a unique chall
 
 ## Inventories
 - Arduino Uno * 28
-- Servo Motor * (15 to 40)
-- Joy Stick * (15 to 40)
-- Bluetooth Module * (15 to 40)
 - LED * enough
 - Resistor * enough
-- LDR * (?)
-- 7-Segment * (15 to 40)
-- Matrix Montor (?)
+- DIP Switch
+- 
 
 ## Ideas
 ### Brain Storming
+- IOT (Smart Trsh Box) -> Using ultra sound sensor for 
+- 
+
 
 ### Selected Topics
 - Day 1 (for 1400 entries)
-- Day 2 (for 1401 entries)
-
+  The topic that was selected for the event was a 4-phase mini-project.
+  - Phase 1: Simple usage of dip switch
+  - Phase 2: Dancing Light
+  - Phase 3: Light Memory Game (Easy)
+  - Phase 4: Light Memory Game (Hard)
 
 ## Meetings
 ### Meeting 1
